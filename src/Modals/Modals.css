@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css?family=Krub|Niramit');
+
+@media screen {
+
+    .modalContainer {
+        margin: 8px;
+    }
+
+    .modalTextContainer {
+        display: flex;
+        align-items: flex-start;
+    }
+
+    .modalTitle {
+        font-size: 16px;
+        padding: 10px;
+        color: orange;
+        font-weight: 700;
+    }
+
+}
+
+.hide {
+    display: none !important;
+}
+
+.globalAlert {
+    position: absolute;
+    border: 1px solid #000;
+    border-radius: 4px;
+    color: #42a94c;
+    background-color: #fff;
+    top: 38vh;
+    width: 500px;
+    left: 50%;
+    margin-left: -250px;
+    z-index: 2;
+}
+
+.alertButton {
+    background-color: #ef5858;
+}
+
+.alertButton:hover {
+    background-color: red;
+}
+
+.successButton {
+    background-color: #1ab394;
+}
+
+.successButton:hover {
+    background-color: #028a6f;
+}
+
+.buttonsInModalContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin: 15px 20px;
+}
+
+.buttonsInModal {
+    padding: 10px 10px;
+    color: #fff;
+    margin: 0 5px;
+    cursor: pointer;
+}
