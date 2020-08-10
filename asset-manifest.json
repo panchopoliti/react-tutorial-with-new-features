@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.413ecb16.chunk.css",
-    "main.js": "/static/js/main.d6b64240.chunk.js",
-    "main.js.map": "/static/js/main.d6b64240.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.7c0ae09a.js",
-    "runtime-main.js.map": "/static/js/runtime-main.7c0ae09a.js.map",
-    "static/js/2.5c9b189d.chunk.js": "/static/js/2.5c9b189d.chunk.js",
-    "static/js/2.5c9b189d.chunk.js.map": "/static/js/2.5c9b189d.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.15a8c666cae6b52ecab9fbe92c80652a.js": "/precache-manifest.15a8c666cae6b52ecab9fbe92c80652a.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.413ecb16.chunk.css.map": "/static/css/main.413ecb16.chunk.css.map",
-    "static/js/2.5c9b189d.chunk.js.LICENSE.txt": "/static/js/2.5c9b189d.chunk.js.LICENSE.txt"
+    "main.css": "/react-tutorial-with-new-features/static/css/main.413ecb16.chunk.css",
+    "main.js": "/react-tutorial-with-new-features/static/js/main.d6b64240.chunk.js",
+    "main.js.map": "/react-tutorial-with-new-features/static/js/main.d6b64240.chunk.js.map",
+    "runtime-main.js": "/react-tutorial-with-new-features/static/js/runtime-main.088a1565.js",
+    "runtime-main.js.map": "/react-tutorial-with-new-features/static/js/runtime-main.088a1565.js.map",
+    "static/js/2.5c9b189d.chunk.js": "/react-tutorial-with-new-features/static/js/2.5c9b189d.chunk.js",
+    "static/js/2.5c9b189d.chunk.js.map": "/react-tutorial-with-new-features/static/js/2.5c9b189d.chunk.js.map",
+    "index.html": "/react-tutorial-with-new-features/index.html",
+    "precache-manifest.8119c13643221edb3053a2603396544a.js": "/react-tutorial-with-new-features/precache-manifest.8119c13643221edb3053a2603396544a.js",
+    "service-worker.js": "/react-tutorial-with-new-features/service-worker.js",
+    "static/css/main.413ecb16.chunk.css.map": "/react-tutorial-with-new-features/static/css/main.413ecb16.chunk.css.map",
+    "static/js/2.5c9b189d.chunk.js.LICENSE.txt": "/react-tutorial-with-new-features/static/js/2.5c9b189d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7c0ae09a.js",
+    "static/js/runtime-main.088a1565.js",
     "static/js/2.5c9b189d.chunk.js",
     "static/css/main.413ecb16.chunk.css",
     "static/js/main.d6b64240.chunk.js"
